@@ -11,7 +11,7 @@ int main(void)
 {
 	int a[N], i;
 
-    printf("Enter %d numbers to be sorted:  ", N);
+	printf("Enter %d numbers to be sorted:  ", N);
 	for (i = 0; i < N; i++ )
 	{
 		scanf("%d", &a[i]);
